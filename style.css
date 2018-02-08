@@ -22,7 +22,7 @@ height:150px;
 }
 /* Global properties */
 body {
-	background:url(../images/bg.jpg) repeat;
+	background:url(bg.jpg) repeat;
 	border:0;
 	font:14px Arial, Helvetica, sans-serif;
 	color:#363636;
@@ -58,12 +58,12 @@ body, html {
 	height:100%
 }
 .body1 {
-	background:url(../images/bg_top.jpg) top repeat-x;
+	background:url(bg_top.jpg) top repeat-x;
 	height:100%;
 	min-height:745px
 }
 .body2 {
-	background:url(../images/bg_img.jpg) top center no-repeat;
+	background:url(bg_img.jpg) top center no-repeat;
 	height:100%;
 	min-height:745px
 }
@@ -122,22 +122,22 @@ header {
 .cont_top_left {
 	top:0;
 	left:0;
-	background:url(../images/content_top_left.gif) top left no-repeat
+	background:url(content_top_left.gif) top left no-repeat
 }
 .cont_top_right {
 	top:0;
 	right:0;
-	background:url(../images/content_top_right.gif) top right no-repeat
+	background:url(content_top_right.gif) top right no-repeat
 }
 .cont_bot_left {
 	bottom:0;
 	left:0;
-	background:url(../images/content_bot_left.gif) bottom left no-repeat
+	background:url(content_bot_left.gif) bottom left no-repeat
 }
 .cont_bot_right {
 	bottom:0;
 	right:0;
-	background:url(../images/content_bot_right.gif) bottom right no-repeat
+	background:url(content_bot_right.gif) bottom right no-repeat
 }
 .inner {
 	padding:3px;
@@ -162,7 +162,7 @@ header {
 	overflow:hidden;
 	padding:0;
 	cursor:pointer;
-	background:url(../images/bg_content_right.jpg) top right no-repeat;
+	background:url(bg_content_right.jpg) top right no-repeat;
 	position:relative;
 	cursor:auto
 }
@@ -174,34 +174,34 @@ header {
 	cursor:pointer
 }
 #page_1 .text {
-	background:url(../images/page_1.gif) 0 0 no-repeat
+	background:url(page_1.gif) 0 0 no-repeat
 }
 #page_2 .text {
-	background:url(../images/page_2.gif) 0 0 no-repeat
+	background:url(page_2.gif) 0 0 no-repeat
 }
 #page_3 .text {
-	background:url(../images/page_3.gif) 0 0 no-repeat
+	background:url(page_3.gif) 0 0 no-repeat
 }
 #page_4 .text {
-	background:url(../images/page_4.gif) 0 0 no-repeat
+	background:url(page_4.gif) 0 0 no-repeat
 }
 #page_5 .text {
-	background:url(../images/page_5.gif) 0 0 no-repeat
+	background:url(page_5.gif) 0 0 no-repeat
 }
 #page_1.active .text, #page_1:hover .text {
-	background:url(../images/page1_active.gif) 0 0 no-repeat
+	background:url(page1_active.gif) 0 0 no-repeat
 }
 #page_2.active .text, #page_2:hover .text {
-	background:url(../images/page2_active.gif) 0 0 no-repeat
+	background:url(page2_active.gif) 0 0 no-repeat
 }
 #page_3.active .text, #page_3:hover .text {
 	background:url(../images/page3_active.gif) 0 0 no-repeat
 }
 #page_4.active .text, #page_4:hover .text {
-	background:url(../images/page4_active.gif) 0 0 no-repeat
+	background:url(page4_active.gif) 0 0 no-repeat
 }
 #page_5.active .text, #page_5:hover .text {
-	background:url(../images/page5_active.gif) 0 0 no-repeat
+	background:url(page5_active.gif) 0 0 no-repeat
 }
 .cont {
 	position:absolute;
@@ -267,7 +267,7 @@ footer a {
 /* Tooltips */
 .aToolTip {
 	border:1px solid #000;
-	background:url(../images/opacity_50_black.png) repeat;
+	background:url(opacity_50_black.png) repeat;
 	color:#fff;
 	margin:0;
 	padding:2px 10px;
@@ -291,14 +291,14 @@ footer a {
 	-webkit-border-radius:6px
 }
 #ContactForm .bg div {
-	background:url(../images/bg_input.gif) bottom repeat-x #fff;
+	background:url(bg_input.gif) bottom repeat-x #fff;
 	border:1px solid #fff;
 	border-radius:6px;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px
 }
 #ContactForm .textarea_box .bg div {
-	background:url(../images/bg_textarea.gif) bottom repeat-x #fff
+	background:url(bg_textarea.gif) bottom repeat-x #fff
 }
 #ContactForm span {
 	float:left;
